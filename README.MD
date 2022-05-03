@@ -1,0 +1,1 @@
+# Echo [![Build status](https://ci.appveyor.com/api/projects/status/9j7jumtjyw6n036w?svg=true)](https://ci.appveyor.com/project/vozle/echo)
